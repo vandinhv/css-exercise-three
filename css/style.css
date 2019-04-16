@@ -81,14 +81,14 @@ body {
 
 nav {
   margin: 0 auto;
-  padding: 10px 0 15px 15px;
+  padding: 15px 0 15px 15px;
   position: fixed;
   width: 420px;
   background-color: #000;
 }
 
 .restaurant-list {
-  padding-top: 50px;
+  padding-top: 48px;
 }
 
 .location {
@@ -102,8 +102,10 @@ nav {
 
 .arrow {
   float: right;
+	font-size: 0.6em;
+	padding-top: 10px;
 }
 
-.fa-2x {
-	font-size: 1em;
+.arrow-left {
+	font-size: 0.6em;
 }
